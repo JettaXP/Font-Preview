@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- "Aa" text centered in safe zone (18-90) -->
+    <group
+        android:translateX="18"
+        android:translateY="18">
+        <!-- Pill / rounded rect background -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M8,22 C8,14 14,8 22,8 L50,8 C58,8 64,14 64,22 L64,50 C64,58 58,64 50,64 L22,64 C14,64 8,58 8,50 Z" />
+        <!-- Letter A -->
+        <path
+            android:fillColor="#6750A4"
+            android:pathData="M22,50 L26,40 L38,40 L42,50 L38,50 L36.5,46 L27.5,46 L26,50 Z M29,42.5 L35,42.5 L32,33 Z" />
+        <!-- Letter a (lowercase) -->
+        <path
+            android:fillColor="#9A82DB"
+            android:pathData="M47,36 C47,33 49,31 52,31 C55,31 57,33 57,36 L57,50 L53.5,50 L53.5,48.5 C52.5,49.5 51,50.5 49.5,50.5 C47,50.5 45.5,49 45.5,47 C45.5,45 47,43.5 49.5,43.5 C51,43.5 52.5,44 53.5,45 L53.5,36 C53.5,34.5 52.5,33.5 51.5,33.5 C50,33.5 49,34.5 49,36 Z M49,47 C49,48 49.5,48.5 50.5,48.5 C52,48.5 53.5,47.5 53.5,46.5 C52.5,45.5 51.5,45 50.5,45 C49.5,45 49,45.5 49,47 Z" />
+    </group>
+</vector>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="fonts" path="fonts/" />
+    <cache-path name="apks" path="apks/" />
+</paths>

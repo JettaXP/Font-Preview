@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Font Preview</string>
+    <string name="tab_online">Онлайн</string>
+    <string name="tab_local">Локальные</string>
+    <string name="tab_install">Установка</string>
+    <string name="search_fonts">Поиск шрифтов…</string>
+    <string name="pangram_en">The quick brown fox jumps over the lazy dog</string>
+    <string name="pangram_ru">Съешь же ещё этих мягких французских булок, да выпей чаю</string>
+    <string name="add_font">Добавить шрифт</string>
+    <string name="download">Скачать</string>
+    <string name="install_on_oneui">Установить на One UI</string>
+    <string name="preview">Предпросмотр</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="custom_text">Свой текст</string>
+    <string name="no_fonts_loaded">Нет загруженных шрифтов</string>
+    <string name="tap_to_add">Нажмите + чтобы добавить шрифт</string>
+</resources>
